@@ -1,5 +1,5 @@
 # Ghana APIs
-My collection of APIs available for use in Ghana - handy for building solutions. Rating are based on my personal (probably inaccurate) accessment
+My collection of APIs available for use in Ghana - handy for building solutions. Ratings are based on my personal (probably inaccurate) accessment
 
 ## Payment
 Quality payment service providers 
