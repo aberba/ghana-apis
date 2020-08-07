@@ -82,7 +82,13 @@ Status | Active
 Rating | 4/5
 Docs | https://www.nalosolutions.com/ (PDF download)
 
-
+#### [FayaSMS](https://fayasms.com/)
+Group/Bulk messaging, Automated messaging, Rest API integration.
+_ | _ 
+-- | --
+Status | Active
+Rating | 4.9/5
+Docs | [https://fayasms.com/developers](https://fayasms.com/developers)
 ---
 
 
