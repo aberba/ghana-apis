@@ -13,7 +13,7 @@ Status | Active
 Rating | 5/5
 Docs | https://paystack.com/gh/developers?q=/developers&
 
-## [Flutterwave](https://flutterwave.com/gh/)
+#### [Flutterwave](https://flutterwave.com/gh/)
 one-time payment, recurring billing, transfer, checkout page - Card, MTN, AitelTigo, Vodafone, Direct Bank
 
 _ | _ 
