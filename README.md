@@ -13,7 +13,7 @@ Status | Active
 Rating | 5/5
 Docs | https://paystack.com/gh/developers?q=/developers&
 
-## [Flutterwave](https://flutterwave.com/gh/)
+#### [Flutterwave](https://flutterwave.com/gh/)
 one-time payment, recurring billing, transfer, checkout page - Card, MTN, AitelTigo, Vodafone, Direct Bank
 
 _ | _ 
@@ -82,7 +82,13 @@ Status | Active
 Rating | 4/5
 Docs | https://www.nalosolutions.com/ (PDF download)
 
-
+#### [FayaSMS](https://fayasms.com/)
+Group/Bulk messaging, Automated messaging, Rest API integration.
+_ | _ 
+-- | --
+Status | Active
+Rating | 4.9/5
+Docs | [https://fayasms.com/developers](https://fayasms.com/developers)
 ---
 
 
