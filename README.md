@@ -91,6 +91,15 @@ Rating | 4.9/5
 Docs | [https://fayasms.com/developers](https://fayasms.com/developers)
 ---
 
+#### [WittyFlow](https://wittyflow.com/)
+Group/Bulk messaging, Rest API integration.
+_ | _ 
+-- | --
+Status | Active
+Rating | 4/5
+Docs | [https://wittyflow.docs.apiary.io](https://wittyflow.docs.apiary.io)
+---
+
 
 
 ## USSD
