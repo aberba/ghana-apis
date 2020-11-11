@@ -5,7 +5,7 @@ My collection of APIs available for use in Ghana - handy for building solutions.
 Quality payment service providers 
 
 #### [Paystack](https://paystack.com/)
-one-time, recurring, transfer, checkout page and cross border payment - Card, MTN, AitelTigo, Vodafone, Direct Bank
+one-time, recurring, transfer, checkout page and multi-split payment - Card, MTN, AitelTigo, Vodafone, Direct Bank
 
 _ | _ 
 -- | --
