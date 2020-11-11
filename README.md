@@ -121,3 +121,10 @@ _ | _
 Status | Active
 Rating | 4/5
 Docs | https://www.nalosolutions.com/ (PDF download)
+
+#### [WittyFlow](https://wittyflow.com/)
+_ | _ 
+-- | --
+Status | Active
+Rating | 3/5
+Docs | [https://wittyflow.docs.apiary.io](https://wittyflow.docs.apiary.io)
