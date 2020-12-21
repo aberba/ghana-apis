@@ -100,6 +100,14 @@ Rating | 4/5
 Docs | [https://wittyflow.docs.apiary.io](https://wittyflow.docs.apiary.io)
 ---
 
+#### [UelloSend](https://www.uellosend.uvitechgh.com/)
+Group/Bulk messaging, Scheduled messaging, Rest API integration.
+_ | _ 
+-- | --
+Status | Active
+Rating | 4/5
+Docs | [https://www.uellosend.uvitechgh.com/developer.html](https://www.uellosend.uvitechgh.com/developer.html)
+---
 
 
 ## USSD
