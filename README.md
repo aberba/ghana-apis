@@ -109,6 +109,17 @@ Rating | 4/5
 Docs | [https://www.uellosend.uvitechgh.com/developer.html](https://www.uellosend.uvitechgh.com/developer.html)
 ---
 
+#### [HellioMessaging](https://helliomessaging.com)
+Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programmable voice messaging, number lookup, and more.
+> OTP, Bulk SMS, Rest API integration.
+
+_ | _ 
+-- | --
+Status | Active
+Rating | 4/5
+Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/developers)
+---
+
 
 ## USSD
  Quality SMS messaging API providers
@@ -123,7 +134,7 @@ Rating | 4/5
 Docs | https://developers.hubtel.com/
 
 #### [NALO Solutions](https://www.nalosolutions.com/)
- 
+
 _ | _ 
 -- | --
 Status | Active
@@ -136,3 +147,16 @@ _ | _
 Status | Active
 Rating | 3/5
 Docs | [https://wittyflow.docs.apiary.io](https://wittyflow.docs.apiary.io)
+
+
+#### [HellioMessaging](https://helliomessaging.com)
+Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programmable voice messaging, number lookup, and more.
+> USSD
+
+_ | _ 
+-- | --
+Status | Active
+Rating | 4/5
+Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/developers)
+---
+
