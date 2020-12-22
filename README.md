@@ -116,7 +116,7 @@ Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programma
 _ | _ 
 -- | --
 Status | Active
-Rating | 4/5
+Rating | 5/5
 Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/developers)
 ---
 
@@ -145,7 +145,7 @@ Docs | https://www.nalosolutions.com/ (PDF download)
 _ | _ 
 -- | --
 Status | Active
-Rating | 3/5
+Rating | 4/5
 Docs | [https://wittyflow.docs.apiary.io](https://wittyflow.docs.apiary.io)
 
 
@@ -156,7 +156,7 @@ Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programma
 _ | _ 
 -- | --
 Status | Active
-Rating | 4/5
+Rating | 5/5
 Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/developers)
 ---
 
