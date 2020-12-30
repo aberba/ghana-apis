@@ -1,5 +1,5 @@
 # Ghana APIs
-My collection of APIs available for use in Ghana - handy for building solutions. Ratings are based on my personal (probably inaccurate) accessment
+My collection of APIs available for use in Ghana - handy for building solutions. Ratings are based on my personal (probably inaccurate) assessment.
 
 ## Payment
 Quality payment service providers 
@@ -32,7 +32,7 @@ Rating | 3/5
 Docs | https://theteller.net/documentation
 
 #### [Hubtel](https://hubtel.com)
-Comes as part of the [unity](https://unity.hubtel.com) service portal. one-time payment, transfer checkout page - MTN, AitelTigo, Vodafone
+one-time payment, transfer checkout page - MTN, AitelTigo, Vodafone
 
 _ | _ 
 -- | --
@@ -56,7 +56,7 @@ Docs | https://www.nalosolutions.com/ (PDF download)
  Quality SMS messaging API providers
  
  #### [Hubtel](https://hubtel.com)
- Comes as part of the [unity](https://unity.hubtel.com) service portal. Single, bulk and scheduled. Rich rich meta-data and configuration. One of the most reliable providers because they've been doing for over a decade.
+Single, bulk and scheduled. Rich rich meta-data and configuration. One of the most reliable providers because they've been doing for over a decade.
 
 _ | _ 
 -- | --
@@ -122,10 +122,9 @@ Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/deve
 
 
 ## USSD
- Quality SMS messaging API providers
+ Quality USSD API providers
  
  #### [Hubtel](https://hubtel.com)
- Comes as part of the [unity](https://unity.hubtel.com) service portal. 
 
 _ | _ 
 -- | --

@@ -1,0 +1,34 @@
+name: "Check Readme links"
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # Schedule to run this test every month.
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Link Checker
+        uses: peter-evans/link-checker@v1
+        id: lc
+        with:
+          args: README.md
+
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: "[Bot] Broken Links Report"
+          content-filepath: ./link-checker/out.md
+          labels: report
+
+      - name: Fail if there were link errors
+        run: exit ${{ steps.lc.outputs.exit_code }}
+# TODO: If test fails on a PR, report output as a PR comment instead of issue.
