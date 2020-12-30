@@ -29,7 +29,6 @@ jobs:
           content-filepath: ./link-checker/out.md
           labels: report
 
-      # - name: Fail if there were link errors
-      #   run: exit ${{ steps.lc.outputs.exit_code }}
-
+      - name: Fail if there were link errors
+        run: exit ${{ steps.lc.outputs.exit_code }}
 # TODO: If test fails on a PR, report output as a PR comment instead of issue.
