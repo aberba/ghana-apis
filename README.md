@@ -1,11 +1,17 @@
 # Ghana APIs
 My collection of APIs available for use in Ghana - handy for building solutions. Ratings are based on my personal (probably inaccurate) assessment.
 
-## Payment
+## Outline
+* [Payments](https://github.com/aberba/ghana-apis/edit/master/README.md#payments)
+* [SMS](https://github.com/aberba/ghana-apis/edit/master/README.md#sms)
+* [USSD](https://github.com/aberba/ghana-apis/edit/master/README.md#ussd)
+* [Identity and Fraud Checks](https://github.com/aberba/ghana-apis/edit/master/README.md#identify-and-fraud-checks)
+
+## Payments
 Quality payment service providers 
 
 #### [Paystack](https://paystack.com/)
-one-time, recurring, transfer, checkout page and multi-split payment - Card, MTN, AitelTigo, Vodafone, Direct Bank
+One-time, recurring billing, transfer, checkout page and multi-split payment - Card, MTN, AitelTigo, Vodafone, Direct Bank 
 
 _ | _ 
 -- | --
@@ -14,7 +20,7 @@ Rating | 5/5
 Docs | https://paystack.com/docs/
 
 #### [Flutterwave](https://flutterwave.com/gh/)
-one-time payment, recurring billing, transfer, checkout page - Card, MTN, AitelTigo, Vodafone, Direct Bank
+One-time payment, recurring billing, transfer, checkout page - Card, MTN, AitelTigo, Vodafone, Direct Bank
 
 _ | _ 
 -- | --
@@ -28,17 +34,17 @@ one-time payment, transfer checkout page - MTN, AitelTigo, Vodafone
 _ | _ 
 -- | --
 Status | Active
-Rating | 3/5
-Docs | https://theteller.net/documentation
+Rating | 4/5
+Docs | [https://theteller.net/documentation](https://theteller.net/documentation)
 
 #### [Hubtel](https://hubtel.com)
-one-time payment, transfer checkout page - MTN, AitelTigo, Vodafone
+One-time payment, transfer checkout page - MTN, AitelTigo, Vodafone
 
 _ | _ 
 -- | --
 Status | Active
-Rating | 4/5
-Docs | https://developers.hubtel.com/
+Rating | 3/5
+Docs | [https://docs-developers.hubtel.com](https://docs-developers.hubtel.com)
 
  #### [NALO Solutions](https://www.nalosolutions.com/)
  
@@ -46,7 +52,16 @@ _ | _
 -- | --
 Status | Active
 Rating | 3/5
-Docs | https://www.nalosolutions.com/ (PDF download)
+Docs | [https://www.nalosolutions.com/](https://www.nalosolutions.com/developers/)
+
+ #### [appsNmobile](https://appsnmobilesolutions.com/)
+ Mobile money, card, tranfers, GHIPSS Payment, and bank. The API is one of the few that provides Auto Debit of Mobile money accounts. Explore their docs for more interesting special purpose APIs.
+_ | _ 
+-- | --
+Status | Active
+Rating | 4/5
+Docs | [https://docs.anmgw.com/](https://docs.anmgw.com/)
+
 
 
 ---
@@ -55,32 +70,29 @@ Docs | https://www.nalosolutions.com/ (PDF download)
 ## SMS
  Quality SMS messaging API providers
  
- #### [Hubtel](https://hubtel.com)
-Single, bulk and scheduled. Rich rich meta-data and configuration. One of the most reliable providers because they've been doing for over a decade.
+#### [Arkesel](https://arkesel.com/)
 
 _ | _ 
 -- | --
 Status | Active
-Rating | 5/5
-Docs | https://developers.hubtel.com/
+Rating | 4/5
+Docs | [https://developers.hubtel.com/](https://developers.arkesel.com/)
 
 
 #### [MNotify](https://www.mnotify.com/)
 Single, bulk and scheduled.
-
 _ | _ 
 -- | --
 Status | Active
-Rating | 4/5
-Docs | https://readthedocs.mnotify.com/
+Rating | 5/5
+Docs | [https://mnotifybms.com/developer/](https://mnotifybms.com/developer/)
 
 #### [NALO Solutions](https://www.nalosolutions.com/)
- 
 _ | _ 
 -- | --
 Status | Active
 Rating | 4/5
-Docs | https://www.nalosolutions.com/ (PDF download)
+Docs | [https://www.nalosolutions.com/](https://www.nalosolutions.com/developers/)
 
 #### [FayaSMS](https://fayasms.com/)
 Group/Bulk messaging, Automated messaging, Rest API integration.
@@ -88,74 +100,81 @@ _ | _
 -- | --
 Status | Active
 Rating | 4.9/5
-Docs | [https://fayasms.com/developers](https://fayasms.com/developers)
----
+Docs | [https://documenter.getpostman.com/view/4787091/TVzYeZV5](https://documenter.getpostman.com/view/4787091/TVzYeZV5)
 
-#### [WittyFlow](https://wittyflow.com/)
-Group/Bulk messaging, Rest API integration.
-_ | _ 
--- | --
-Status | Active
-Rating | 4/5
-Docs | [https://wittyflow.docs.apiary.io](https://wittyflow.docs.apiary.io)
----
 
-#### [UelloSend](https://www.uellosend.uvitechgh.com/)
+#### [UelloSend](https://uellosend.com/)
 Group/Bulk messaging, Scheduled messaging, Rest API integration.
 _ | _ 
 -- | --
 Status | Active
 Rating | 4/5
-Docs | [https://www.uellosend.uvitechgh.com/developer.html](https://www.uellosend.uvitechgh.com/developer.html)
----
+Docs | [https://uellosend.com/developer.php](https://uellosend.com/developer.php)
+
 
 #### [HellioMessaging](https://helliomessaging.com)
-Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programmable voice messaging, number lookup, and more.
-> OTP, Bulk SMS, Rest API integration.
-
+Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programmable voice messaging, number lookup, and more. OTP, Bulk SMS, Rest API integration.
 _ | _ 
 -- | --
 Status | Active
 Rating | 5/5
 Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/developers)
----
+
+
+ #### [appsNmobile](https://appsnmobilesolutions.com/)
+ Only a single phone numberper message, no scheduling supported.
+_ | _ 
+-- | --
+Status | Active
+Rating | 2/5
+Docs | [https://docs.anmgw.com/](https://docs.anmgw.com/)
+
 
 
 ## USSD
- Quality USSD API providers
+ USSD API providers
  
- #### [Hubtel](https://hubtel.com)
-
+#### [Arkesel](https://arkesel.com/)
 _ | _ 
 -- | --
 Status | Active
 Rating | 4/5
-Docs | https://developers.hubtel.com/
+Docs | [https://developers.hubtel.com/](https://developers.arkesel.com/)
 
 #### [NALO Solutions](https://www.nalosolutions.com/)
-
 _ | _ 
 -- | --
 Status | Active
 Rating | 4/5
 Docs | https://www.nalosolutions.com/ (PDF download)
 
-#### [WittyFlow](https://wittyflow.com/)
+#### [HellioMessaging](https://helliomessaging.com)
+Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programmable voice messaging, number lookup, and more.
+> USSD
 _ | _ 
 -- | --
 Status | Active
 Rating | 4/5
-Docs | [https://wittyflow.docs.apiary.io](https://wittyflow.docs.apiary.io)
+Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/developers)
 
 
-#### [HellioMessaging](https://helliomessaging.com)
-Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programmable voice messaging, number lookup, and more.
-> USSD
+--- 
 
+## Identify and Fraud Checks
+ Quality SMS messaging API providers
+
+#### [YouVerify]([https://appsnmobilesolutions.com/](https://youverify.co/))
+KYC, fraud check, AML - Used by a number of very well known fintech, lenders, brokerages, exchanges, and crypto companies
 _ | _ 
 -- | --
 Status | Active
-Rating | 5/5
-Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/developers)
----
-
+Rating | 4/5
+Docs | [https://youverify.co/resources/developer](https://youverify.co/resources/developer)
+ 
+ #### [appsNmobile](https://appsnmobilesolutions.com/)
+Ghana card verification 
+_ | _ 
+-- | --
+Status | Active
+Rating | 2/5
+Docs | [https://docs.anmgw.com/docs-page.html#apidetails](https://docs.anmgw.com/docs-page.html#apidetails)
