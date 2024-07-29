@@ -3,7 +3,7 @@ My collection of APIs available for use in Ghana - handy for building solutions.
 
 ## Outline
 * [Payments](#payments)
-* [SMS](sms)
+* [SMS](#sms)
 * [USSD](#ussd)
 * [Identity and Fraud Checks](#identify-and-fraud-checks)
 
