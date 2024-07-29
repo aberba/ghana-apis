@@ -2,7 +2,7 @@
 My collection of APIs available for use in Ghana - handy for building solutions. Ratings are based on my personal (probably inaccurate) assessment.
 
 ## Outline
-* [Payments](https://github.com/aberba/ghana-apis/edit/master/README.md#payments)
+* [Payments](https://github.com/aberba/ghana-apis/README.md#payments)
 * [SMS](https://github.com/aberba/ghana-apis/edit/master/README.md#sms)
 * [USSD](https://github.com/aberba/ghana-apis/edit/master/README.md#ussd)
 * [Identity and Fraud Checks](https://github.com/aberba/ghana-apis/edit/master/README.md#identify-and-fraud-checks)
