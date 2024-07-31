@@ -1,7 +1,7 @@
 # Ghana APIs
-A collection of APIs available for use in Ghana - handy for building tech solutions. You are welcomed to suggest more. 
+A collection of APIs available for use in Ghana - handy for building tech solutions. You are welcomed to suggest more or changes. 
 
-> Ratings are based on my personal experience as I use a number of them in [Nnipa](https://https://nnipa.app), docs, and intuition based assessment. I know it's not the best metric so take it with a grain of salt. 
+> Ratings are based on my personal experience as I use a number of them professionally, in my SaaS [Nnipa](https://nnipa.app), by their Docs/DX, and intuition based assessment. I know it's not the best metric so take it with a grain of salt. I intend to keep the list updated but I can't promise. 
 
 ## Outline
 * [Payments](#payments)
