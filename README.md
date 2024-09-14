@@ -194,7 +194,7 @@ Docs | [https://docs.anmgw.com/docs-page.html#apidetails](https://docs.anmgw.com
 ## Delivery
  Last-mile delivery solutions for accessing nearby riders.
 
-#### [Flip Delivery]([Website](https://flip.delivery))
+#### [Flip Delivery](https://flip.delivery)
 Provides seamless integration for businesses to access on-demand delivery services, enabling real-time tracking and management of parcel deliveries
 _ | _ 
 -- | --
