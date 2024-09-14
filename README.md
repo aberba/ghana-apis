@@ -172,7 +172,7 @@ Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/deve
 
 --- 
 
-## Identify and Fraud Checks
+## Identity and Fraud Checks
  KYC processes and Fraud checks.
 
 #### [YouVerify]([https://appsnmobilesolutions.com/](https://youverify.co/))
