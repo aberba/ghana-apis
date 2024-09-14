@@ -8,7 +8,8 @@ A collection of APIs available for use in Ghana - handy for building tech soluti
 * [SMS](#sms)
 * [USSD](#ussd)
 * [Identity and Fraud Checks](#identify-and-fraud-checks)
-
+* [Delivery](#delivery)
+  
 ## Payments
 Quality payment service providers 
 
@@ -160,7 +161,7 @@ Rating | 4/5
 Docs | https://www.nalosolutions.com/ (PDF download)
 
 #### [HellioMessaging](https://helliomessaging.com)
-Hellio provides a vriety of API service including USSD, SMS, WhatsApp, programmable voice messaging, number lookup, and more.
+Hellio provides various API services including USSD, SMS, WhatsApp, programmable voice messaging, number lookup, and more.
 > USSD
 _ | _ 
 -- | --
@@ -172,10 +173,10 @@ Docs | [https://helliomessaging.com/developers](https://helliomessaging.com/deve
 --- 
 
 ## Identify and Fraud Checks
- Quality SMS messaging API providers
+ KYC processes and Fraud checks.
 
 #### [YouVerify]([https://appsnmobilesolutions.com/](https://youverify.co/))
-KYC, fraud check, AML - Used by a number of very well known fintech, lenders, brokerages, exchanges, and crypto companies
+KYC, fraud check, AML - Used by several very well-known fintech, lenders, brokerages, exchanges, and crypto companies
 _ | _ 
 -- | --
 Status | Active
@@ -189,3 +190,14 @@ _ | _
 Status | Active
 Rating | 2/5
 Docs | [https://docs.anmgw.com/docs-page.html#apidetails](https://docs.anmgw.com/docs-page.html#apidetails)
+
+## Delivery
+ Last-mile delivery solutions for accessing nearby riders.
+
+#### [Flip Delivery]([Website](https://flip.delivery))
+Provides seamless integration for businesses to access on-demand delivery services, enabling real-time tracking and management of parcel deliveries
+_ | _ 
+-- | --
+Status | Active
+Rating | -
+Docs | [Documentation](https://documenter.getpostman.com/view/9533459/2s9YRGw8ck)
